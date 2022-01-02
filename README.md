@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanket Sanap
-- 👀 I’m interested in Big Data, Data Science, Data Analytics and Cloud application
+- 👀 I’m interested in Big Data, Data Science, Data Engineering and Cloud applications
 - 🌱 Pursuing Master of Science in Data Architecture and Management
 - 📫 Reach me at sanketsanap5@gmail.com
 
