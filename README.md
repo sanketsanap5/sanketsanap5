@@ -1,4 +1,4 @@
-- Data Engineer with 4+ years of experience designing and optimizing data platforms using Databricks, Spark, and Azure lakehouse architecture.
+- Data Engineer with 4+ years of experience designing and optimizing data platforms using Databricks, Spark, and Azure Lakehouse Architecture.
 - Experienced in building scalable data pipelines, platform migrations, and analytics systems powering client-facing dashboards.
 📍 Boston, MA | 📫 sanketsanap5@gmail.com
 
